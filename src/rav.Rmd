@@ -1,36 +1,34 @@
 ---
-title: "Video 9 - Validity and reliability"
+title: "Practical advice for establishing reliability and validity"
 author: "Steve Simon"
 output: 
   powerpoint_presentation:
     slide_level: 3
 ---
 
-### Abstract
+### Outline
++ When should you demand proof of reliability and validity?
++ Two dichotomies of measurement
+  + Patient Reported Outcomes versus Subjective researcher evaluations
+  + Single measurements versus Composite scores
++ Theory behind reliability studies
++ Approaches to establish reliability
++ Theory behind validity studies
++ Approaches to establish validity
++ When can you rely on previous literature?
++ Four case studies
 
-Practical advice for establishing reliability and validity
+<div class="notes">
+
+Here is the abstract of this talk, which I am placing in the speaker notes just to serve as a reminder to me of what I should be sure to cover.
+
+"Practical advice for establishing reliability and validity
 
 You may feel confused about the process of establishing reliability and validity of the measurements that you use in your research study. It is probably caused by the dizzying number of choices available to you. Here’s some practical advice. Reliability and validity are very important, but you can skip the effort entirely for some measurements. Furthermore, some approaches to reliability and validity only make sense for a composite measurement and can be safely skipped for an individual or univariate measurement. For the rest of your measurements, a key distinction is between researcher observation and self-reported information. Some measures of reliability work only for researcher observation and others work only for self-reported information. This talk will outline the steps that you follow in establishing reliability and validity with special emphasis on when you can safely skip some of these steps.
 
 Note: I need to add back into the YAML header the following line
     reference_doc: ../doc/template.pptx
-
-
-### Outline
-+ Why do you need to worry about reliability and validity?
-+ Two dichotomies of measurement
-  + Patient Reported Outcomes versus Subjective researcher evaluations
-  + Single measurements versus Composite scores
-+ Theory behind reliability studies
-+ Test-retest reliability (only for patient reported outcomes)
-+ Inter-rater reliability (only for researcher evaluations)
-+ Parallel forms (only for composite scores)
-+ Internal consistency (only for composite scores)
-+ When can you rely on previous literature?
-+ Theory behind validity studies
-+ Face and content validity (only for composite measures)
-+ Internal structure (only for composite measures)
-+ Criterion and construct validity (potentially for any measure)
+"
 
 ### Measurement quotes (1 of 2)
   
@@ -69,7 +67,7 @@ For better or for worse, researchers tend to focus greater attention on certain 
 
 Don't think that if your measure is not on this list that it doesn't deserve careful scrutiny. There's really no consensus in the research community on what measurements require this extra level of attention.
 
-I think it is a bit unfair, but there is a lot of distrust of patient reported outcomes among researchers. Why not believe what the patient says about himself or herself? Part of it might be that a patient's answers could potentially be influenced by their mood.
+I think it is a bit unfair, but there is a lot of distrust of patient reported outcomes among researchers. Why not believe what the patient says about himself or herself? Part of it might be that a patient's answers could potentially be influenced by their mood. They might also be influenced by a desire to look good. They may want to give an answer that they think the interviewer wants to hear.
 
 There is also a belief that patient reported outcome measures vary too much from one individual to another. Some people are stoic to a fault and others will complain endlessly at the drop of a hat.
 
@@ -83,53 +81,71 @@ Finally, many measures in clinical research are composites of one or more items.
 
 </div>
 
-### Composite measure - PHQ-9
+### Case study #1 - NES
 
-![PHQ questionnaire](../images/09/phq.png)
-
-<div class="notes">
-
-The PHQ-9 questionnaire attempts to measure depression. You provide ansers to the following questions
-
-"Over the last 2 weeks, how often have you been bothered by any of the following problems"
-
-"1. Little interest or pleasure in doing things"
-
-"2. Feeling down, depressed, or hopeless"
-
-and seven more items. The possible responses are "Not at all" scored as a 0, "Several Days" scored as 1, "More than half the days" scored as a 2, and "Nearly every day" scored as a 3. Add up those scores to get a value between 0 and 27. 
-
-You might wonder why ask nine questions rather than one? Well, there is a single question, the Yale-Brown scale: "Do you often feel sad or depressed?" with a yes/no answer. It is very useful in a clinical setting where health care professionals might be too busy to ask a series of questions.
-
-The reason to ask a series of questions, rather than one question is that it (frequently, but not always) reduces measurement error and produces better reliability. There are other reasons, as well, I suspect, such as the desire to look at depression on a continuum rather than as a binary outcome.
-
-</div>
-
-### Composite measure - NES
-
-![NES questionnaire](../images/09/nes.png)
+![NES questionnaire](../images/nes.png)
 
 <div class="notes">
 
-I realize this image might be difficult to read on your computer. If you are curious, I have placed the image on the Canvas website.
+This is the Neighborhood Environment Survey.
 
-Here's a second example of a composite score, the neighborhood environment survey. It is eighten questions long with questions like "There are plenty of safe places to walk or play outdoors in my neighborhood" and "Every few weeks, some ki in my neighborhood gets beat-up or mugged." These question are answered true/false and points of 0 or 1 are assigned. Notice that some of the questions get a 1 for true and some of the questions get a 1 for false. The total score is 0 to 18 (the paper incorrectly lists the range as 1 to 18).
-
-Some of the approaches for establishing reliability and validity only work for composite measures.
+I realize this image might be difficult to read on your computer. I'm going to magnify this in a bit, but notice that this is a series of 18 true/false questions.
 
 </div>
 
-### Pain scale
+### Case study #1 - NES
+
+![NES questionnaire, magnified](../images/nes-magnified.png)
+
+<div class="notes">
+
+Here are some of the questions on the NES. "There are plenty of safe places to walk or play outdoors in my neighborhood" and "Every few weeks, some kid in my neighborhood gets beat-up or mugged." These question are answered true/false and points of 0 or 1 are assigned. Notice that some of the questions get a 1 for true and some of the questions get a 1 for false. The total score is 0 to 18.
+
+This is a self report and it is also a composite measure.
+
+</div>
+
+### Case study #2 - Pain scale
 
 ![Pain scale](../images/pain-scale.png)
 
+<div class="notes">
+
+This is a pain scale. Pain is something that cannot be easily observed by an outsider. You are best off asking someone directly what their pain is like.
+
+This is self report, but it is a single measure rather than a composite. You will handle this differently.
+
+</div>
+
 ### BBPS
+
+![Excerpt from ]
 
 1: Lai EJ, Calderwood AH, Doros G, Fix OK, Jacobson BC. The Boston bowel
 preparation scale: a valid and reliable instrument for colonoscopy-oriented
 research. Gastrointest Endosc. 2009 Mar;69(3 Pt 2):620-5. doi:
 10.1016/j.gie.2008.05.057. Epub 2009 Jan 10. PubMed PMID: 19136102; PubMed
 Central PMCID: PMC2763922.
+
+### Case study #3 - Apgar score
+
+![Apgar score](../images/apgar.png)
+
+<div class="notes">
+
+This is the Apgar score. It is a measurement taken one minute after a person is born. No self report is possible for a person who is one minute old, so it has to be measured by an outsider. There are five components to the Apgar score, each rated as zero, one, or two. Just a hint here. If you happen to be borrn, being blue, limp, and not crying is a very bad thing.
+
+</div>
+
+### Case study #4 - Boston Bowel Prep Score
+
+![Excerpt from Lai et al article](../images/bbps.png)
+
+<div class="notes">
+
+THis an except from an article establishing the reliability and validity of the Boston Bowel Prep score. When you get a colonoscopy done, you're supposed fast for a full day and also drink a foul tasting preparation. Almost a gallon of this stuff. When you're done, the next day, your bowel is cleaned out enough that the colonoscopist can go hunting for polyps in your colon.
+
+</div>
 
 ### Measurement Reliability 
 
