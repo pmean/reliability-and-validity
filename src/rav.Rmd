@@ -117,16 +117,6 @@ This is self report, but it is a single measure rather than a composite. You wil
 
 </div>
 
-### BBPS
-
-![Excerpt from ]
-
-1: Lai EJ, Calderwood AH, Doros G, Fix OK, Jacobson BC. The Boston bowel
-preparation scale: a valid and reliable instrument for colonoscopy-oriented
-research. Gastrointest Endosc. 2009 Mar;69(3 Pt 2):620-5. doi:
-10.1016/j.gie.2008.05.057. Epub 2009 Jan 10. PubMed PMID: 19136102; PubMed
-Central PMCID: PMC2763922.
-
 ### Case study #3 - Apgar score
 
 ![Apgar score](../images/apgar.png)
@@ -145,6 +135,22 @@ This is the Apgar score. It is a measurement taken one minute after a person is 
 
 THis an except from an article establishing the reliability and validity of the Boston Bowel Prep score. When you get a colonoscopy done, you're supposed fast for a full day and also drink a foul tasting preparation. Almost a gallon of this stuff. When you're done, the next day, your bowel is cleaned out enough that the colonoscopist can go hunting for polyps in your colon.
 
+An objective measure of how well you did with your fasting and with your drink preparation is the Boston Bowel Prep Score. This is an excerpt from the research article that established reliability and validity of this measure.
+
+Lai EJ, Calderwood AH, Doros G, Fix OK, Jacobson BC. The Boston bowel preparation scale: a valid and reliable instrument for colonoscopy-oriented research. Gastrointest Endosc. 2009 Mar;69(3 Pt 2):620-5. doi: 10.1016/j.gie.2008.05.057. Epub 2009 Jan 10. PubMed PMID: 19136102; PubMed Central PMCID: PMC2763922.
+
+### Case study #4 - BOston Bowel Prep Score
+
+![Excerpt from Lai et al article](../images/bbps-magnified.png)
+
+<div class="notes">
+
+Here's a careful look at the four values. O means that you can't see anything because of the presence of solid stool (somebody didn't fast like they should have!) and 3 means only small fragments of stool or opaque liquid. You don't want a zero because they'll make you do the colonoscopy all over again. By the way, there were some pictures in this article and I did not include them in this talk. Thank me for this later.
+
+This is an example of a physician report. No self report is available here. But you still want to examine reliability and validity because this does have the potential to be perceived as subjective.
+
+Note also that, unlike the Apgar score, this is not a composite measure. There is a single number that you get.
+
 </div>
 
 ### Measurement Reliability 
@@ -155,10 +161,6 @@ THis an except from an article establishing the reliability and validity of the 
   + This is a purely hypothetical model
 * Reliability coefficient
   + Variance of true values / Variance of measured values
-* No measurement is perfectly reliable
-  + Strive for 0.7 or higher in research
-  + 0.6 is "borderline".
-  + Might require 0.9 or higher for individual decisions
 
 <div class="notes">
 
@@ -172,7 +174,18 @@ Your book talks about a reliability coefficient which is the variance of the tru
 
 You should not be too surprised to find out that the reliability coefficient is a hypothetical value and can never be measured directly. But there are several indirect approaches.
 
-One thing you need to keep in mind is that the reliability coefficient is dependent on the population it is based on. Your book doesn't mention this, but it is important. Change the population and you change the reliability coefficient. Something with a great reliability coefficient in a population of college students might be terrible in a population with limited literacy skills, for example.
+One thing you need to keep in mind is that the reliability coefficient is dependent on the population it is based on. This is very important. Change the population and you change the reliability coefficient. Something with a great reliability coefficient in a population of college students might be terrible in a population with limited literacy skills, for example.
+
+</div>
+
+### Measurement Reliability 
+
+* No measurement is perfectly reliable
+  + Strive for 0.7 or higher in research
+  + 0.6 is "borderline".
+  + Might require 0.9 or higher for individual decisions
+
+<div class="notes">
 
 Since no measurement is ever conducted without some measurement error, no measurement has perfect reliability. You need to make a value judgement about whether the deviation from the truth is small enough that you can safely ignore it.
 
@@ -188,7 +201,7 @@ Reliability is usually established when a measure is developed. When you go abou
 
 </div>
 
-### Take a break here
+### Stop here for questions
 
 * What you have learned.
   + Measurements that require special scrutiny
@@ -199,9 +212,9 @@ Reliability is usually established when a measure is developed. When you go abou
 
 <div class="notes">
 
-Let's take a break here. We've talked about the types of measurements that typically draw extra concern. We also developed a hypothetical model relating the observed measurement to the true measurement plus measurement error. This allowed us to define the reliability coefficient.
+Let's take a break here for questions. We've talked about the types of measurements that typically draw extra concern. We also developed a hypothetical model relating the observed measurement to the true measurement plus measurement error. This allowed us to define the reliability coefficient.
 
-You can't measure the reliability coefficient directly, but in the next video, you'll see several approaches that can provide an indirect measure of this quantity.
+You can't measure the reliability coefficient directly, but next, you'll see several approaches that can provide an indirect measure of this quantity.
 
 </div>
 
@@ -221,13 +234,14 @@ Even though the reliability coefficient cannot be measured directly, you can usu
 
 </div>
 
-### Test-retest reliability
-
-* Also called repeatability
+### Test-retest reliability (also called repeatability)
 * Correlation of two measurements separated by time
 * Length of time interval is critical
   + No carry-over
   + No changes in the true score
+* Useful for composite scores and single values
+* Useful for self-report and researcher evaluation
+* Not possible for some measures
 
 <div class="notes">
 
@@ -245,11 +259,12 @@ But too large an interval is also problematic. You want to make sure that the tr
 
 Over what size interval would you expect the measure to be stable? It depends on what you are measuring. Intelligence is likely to be stable along long time frames but mood changes rapidly.
 
+Test-retest reliability works well for any type of measure. But it can't always be applied. The Apgar score has to be measured at the time of birth. If the baby is blue, limp, and unresponsive after three hours, that's not quite the same as the same occuring right after birth.
+
 </div>
 
 ### Inter-rater reliability
 
-* Used for researcher evaluations only
 * Simplest case
   + Two independent raters
   + Ratings for every patient
@@ -259,6 +274,7 @@ Over what size interval would you expect the measure to be stable? It depends on
 * Extensions
   + Rate random subsets
   + More than two raters
+* Used for researcher evaluations only
 
 <div class="notes">
 
@@ -272,11 +288,9 @@ If your measurement is binary (note the entire measurement is binary, which is n
 
 You can't always have all the raters rate all the patients, especially if you have more than two raters. There are extensions to cases where you have random assignments of patients to different raters, but the formulas are tricky.
 
-I say that, even though I like formulas. It's not tricky so much as tedious. So I do not want to share all the details here. If you are interested in looking at inter-rater reliability in a more complex setting than just two raters, I'd love to talk to you about it.
-
 </div>
 
-### Take a second break
+### Take a break for more questions
 
 * What have you learned so far.
   + Test-retest measures of reliability
@@ -286,7 +300,7 @@ I say that, even though I like formulas. It's not tricky so much as tedious. So 
   
 <div class="notes">
 
-Time for another break. We've talked about test-retest reliability. The tricky part here is deciding how far apart in the time the test and retest have to be. You also learned about inter-rater reliability, which is used for researcher evaluations where you are concerned about subjectivity in the measurement process.
+Time to ask for more questions. We've talked about test-retest reliability. The tricky part here is deciding how far apart in the time the test and retest have to be. You also learned about inter-rater reliability, which is used for researcher evaluations where you are concerned about subjectivity in the measurement process.
 
 Next, we'll talk about some very different measures of reliability, measures of internal consistency. I don't like these measures nearly as much, but you do need to know about them because they are used quite often.
 
@@ -301,6 +315,7 @@ Next, we'll talk about some very different measures of reliability, measures of 
   + Change the question order 
   + Minor changes to the wording
 * Difficult to develop two parallel forms of the same measurement.
+* Only used for composite measures
 
 <div class="notes">
 
@@ -320,11 +335,11 @@ The parallel forms measure of reliability is not used that frequently, because i
 
 ### Split half reliability
 
-* Only used for composite measurements
 * Split into halves, correlated
   + Odd-even split
   + Random split
 * Brown-Spearman adjustement
+* Only used for composite measurements
 
 <div class="notes">
 
@@ -338,23 +353,20 @@ You do need to be careful, though. The reliability of a composite measurement is
 
 </div>
 
-### Kuder-Richardson 20
+### Kuder-Richardson 20 (KR-20)
 
 * Only for composite measures with binary items
-* Book's formula is confusing
-  + $S^2$ and $\sigma^2$ used interchangably
-  + $\Sigma pq$ is a theoretical minimum variation
-  + $S^2$ is observed variation
-  + $S^2 = \Sigma pq$ implies randomness
-  + $S^2 > \Sigma pq$ implies internal consistency
-  
+* Measures inter-item correlation
+  + Compared to independent items
+  + Small KR-20 implies poor split half correlations
+
 <div class="notes">
 
-Another measure for reliability, Kuder-Richardson 20, is used for composite measures, but only those composite measures that have binary items. Your book does a poor job explaining this, and the notation is inconsistent.
+Another measure for reliability, Kuder-Richardson 20, is used for composite measures, but only those composite measures that have binary items. 
 
-If you are curious, the formula is comparing a theoretical minimum variation, a variation computed using independent Bernoulli random variables, but with different p's and q's for each item. Strictly speaking, this is not accurate, but a smaller value than the sum of the pq's could only occur if there is negative correlation among the individual items, and this implies almost a conspiracy among the individual items to make things as bad as possible for you.
+If you are curious, KR-20 compares  a :sort of" theoretical minimum variation, a variation computed using independent Bernoulli random variables, but with different p's and q's for each item. Strictly speaking, this is not accurate, but not worth worrying about, as it never occurs in practice.
 
-You compare this to the variation observed among the total scores in the sample. If the observed variation is equal to the theoretical minimum, the individual items are behaving randomly, with no internal consistency. This means that any split halves that you could compute would have next to no correlation.
+You compare the minimum variation to the variation observed among the total scores in the sample. If the observed variation is equal to the theoretical minimum, the individual items are behaving randomly, with no internal consistency. This means that any split halves that you could compute would have next to no correlation.
 
 If there is much more observed variation, that means that people show positive correlations. Low on one item means low on most of the other items and high on one item means high on the other items. This positive correlation is a measure of internal consistency.
 
@@ -365,13 +377,9 @@ Keep in mind that if you have a different population, the minimum variation woul
 ### Cronbach’s alpha
 
 * Used for composite measurements with continuous items
-* Book's formula is confusing
-  + $\Sigma S^2$ should be $\Sigma S_i^2$
-  + $\Sigma S_i^2$ is a theoretical minimum variation
-  + $S^2$ is observed variation
-  + $S^2 = \Sigma S_i^2$ implies randomness
-  + $S^2 > \Sigma S_i^2$ implies internal consistency
-* Cronbach's alpha is NOT a measure of unidimensionality
+* Measures inter-item correlation
+  + Compared to independent items
+  + Small Cronbach's alpha implies poor split half correlations
 
 <div class="notes">
 
@@ -379,9 +387,9 @@ A similar measure, Cronbach's alpha is used for composite measures, but does not
 
 Again, your book does a poor job explaining this, and the notation is confusing.
 
-Just like Kuder-Richardson 20, Cronbach's alpha computes a a theoretical minimum variation. This time it is a sum of the variances for the individual items. Strictly speaking, this is not accurate, but a smaller value than the sum of the variances implies a deep and dark conspiracy against you by the individual items in your composite.
+Just like Kuder-Richardson 20, Cronbach's alpha computes a a theoretical minimum variation, this time under a normality assumption. 
 
-You compare this to the variation observed in the total score. If the two values are close, that tells you that the individual items are more or less independent of each other and that any split halves that you might compute would have little or no correlation.
+You compare the minimum variation to the variation observed in the total score. If the two values are close, that tells you that the individual items are more or less independent of each other and that any split halves that you might compute would have little or no correlation.
 
 If there is much more observed variation, that means that people show positive correlations. Low on one item means low on most of the other items and high on one item means high on the other items. This positive correlation is a measure of internal consistency.
 
@@ -398,9 +406,6 @@ Some people confuse the concept of internal consistency with uni-dimensionality.
   + Different cultural norms?
   + Different literacy?
   + Different language?
-* Compare to reliability in your sample
-  + Test-retest and inter-rater reliability preferred.
-  + 0.7 or higher
 
 <div class="notes">
 
@@ -424,7 +429,7 @@ The general target value for a reliability coefficient is 0.7 or higher. You mig
 
 </div>
 
-### Time for a third break
+### Time for more questions
 
 * What have you learned so far.
   + Measures of internal consistency
@@ -434,7 +439,7 @@ The general target value for a reliability coefficient is 0.7 or higher. You mig
 
 <div class="notes">
 
-Wow. That's a lot to digest. Don't be afraid to ask me questions about reliability. Let's take a break here. We talked about measures of internal consistency and why I don't like them. We also talked about some practical advice: report reliability measures from your literature review and measure reliability, if you can, in your current study.
+Wow. That's a lot to digest. Don't be afraid to ask me questions about reliability. Let's take a break here for questions. We talked about measures of internal consistency and why I don't like them. We also talked about some practical advice: report reliability measures from your literature review and measure reliability, if you can, in your current study.
 
 Next, we'll tackle measurement validity.
 
@@ -447,8 +452,6 @@ Next, we'll tackle measurement validity.
 * Examples of the wrong thing
   + Measuring anxiety instead of stress
   + Measuring transient changes in a patient's mood rather than chronic depression
-* Validity
-  + "Degree to which a measure ... measures that which it was intended to measure"
 * Reliability is a pre-requisite for validity
 * Validity is a journey and not a destination
 
@@ -472,10 +475,14 @@ The other thing to keep in mind is that validity is not something that you estab
 
 ### Types of measurement validity 
 
-* Face validity
-* Content validity
-* Criterion validity
-* Construct validity
+* Validity
+  + "Degree to which a measure ... measures that which it was intended to measure"
+* Types of validity
+  + Face validity
+  + Content validity
+  + Response process validity
+  + Criterion validity
+  + Construct validity
 
 <div class="notes">
 
