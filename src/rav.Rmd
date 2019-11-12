@@ -7,18 +7,17 @@ output:
 ---
 
 ### Outline
-+ When should you demand proof of reliability and validity?
 + Two dichotomies of measurement
   + Patient Reported Outcomes versus Subjective researcher evaluations
   + Single measurements versus Composite scores
-+ Theory behind reliability studies
-+ Approaches to establish reliability
-+ Theory behind validity studies
-+ Approaches to establish validity
-+ When can you rely on previous literature?
++ Different approaches for reliability and validity
+  + When you can NOT use a particular approach.
 + Four case studies
 
 <div class="notes">
+
+Note: add a template with the following line
+    reference_doc: T#015 STSP-PPT-Wide-Template.potx
 
 Here is the abstract of this talk, which I am placing in the speaker notes just to serve as a reminder to me of what I should be sure to cover.
 
@@ -27,12 +26,13 @@ Here is the abstract of this talk, which I am placing in the speaker notes just 
 You may feel confused about the process of establishing reliability and validity of the measurements that you use in your research study. It is probably caused by the dizzying number of choices available to you. Here’s some practical advice. Reliability and validity are very important, but you can skip the effort entirely for some measurements. Furthermore, some approaches to reliability and validity only make sense for a composite measurement and can be safely skipped for an individual or univariate measurement. For the rest of your measurements, a key distinction is between researcher observation and self-reported information. Some measures of reliability work only for researcher observation and others work only for self-reported information. This talk will outline the steps that you follow in establishing reliability and validity with special emphasis on when you can safely skip some of these steps.
 
 Note: I need to add back into the YAML header the following line
-    reference_doc: ../doc/template.pptx
 "
+
+</div>
 
 ### Measurement quotes (1 of 2)
   
-* "The government is extremely fond of amassing great quantities of statistics. These are raised to the Nth degree, the cube roots are extracted, and the results are arranged into elaborate and impressive displays. What must be kept ever in mind, however, is that in every case, the figures are first put down by a village watchman, and he puts down anything he damn well pleases." 
++ "The government is extremely fond of amassing great quantities of statistics. These are raised to the Nth degree, the cube roots are extracted, and the results are arranged into elaborate and impressive displays. What must be kept ever in mind, however, is that in every case, the figures are first put down by a village watchman, and he puts down anything he damn well pleases." 
   + Sir Josiah Stamp, as quoted on [Quotetab](https://www.quotetab.com/quotes/by-josiah-stamp).
 
 <div class="notes">
@@ -43,7 +43,7 @@ As much as I love numbers, I have to admit that they are often abused. Just beca
 
 ### Measurement quotes (2 of 2)
 
-* "only scientists are arrogant enough to think that they always observe with rigorous and objective scrutiny"
++ "only scientists are arrogant enough to think that they always observe with rigorous and objective scrutiny"
   + Stephen Jay Gould, The Mismeasure of Man, page 36.
 
 <div class="notes">
@@ -54,12 +54,12 @@ I also have to quote Stephen Jay Gould here as well. He wrote an excellent book,
 
 ### Measurements that warrant closer scrutiny
 
-* Patient reported outcomes
++ Patient reported outcomes
   + Participant report
-* Researcher evaluations
++ Researcher evaluations
   + Only when concerned about subjectivity
-* Psychological constructs
-* Composite scores
++ Psychological constructs
++ Composite scores
 
 <div class="notes">
 
@@ -139,7 +139,9 @@ An objective measure of how well you did with your fasting and with your drink p
 
 Lai EJ, Calderwood AH, Doros G, Fix OK, Jacobson BC. The Boston bowel preparation scale: a valid and reliable instrument for colonoscopy-oriented research. Gastrointest Endosc. 2009 Mar;69(3 Pt 2):620-5. doi: 10.1016/j.gie.2008.05.057. Epub 2009 Jan 10. PubMed PMID: 19136102; PubMed Central PMCID: PMC2763922.
 
-### Case study #4 - BOston Bowel Prep Score
+</div>
+
+### Case study #4 - Boston Bowel Prep Score
 
 ![Excerpt from Lai et al article](../images/bbps-magnified.png)
 
@@ -155,11 +157,11 @@ Note also that, unlike the Apgar score, this is not a composite measure. There i
 
 ### Measurement Reliability 
 
-* Synoynms: consistency, precision, stability
-* Classical test theory
++ Synoynms: consistency, precision, stability
++ Classical test theory
   + Observed value = True value + Measurement error
   + This is a purely hypothetical model
-* Reliability coefficient
++ Reliability coefficient
   + Variance of true values / Variance of measured values
 
 <div class="notes">
@@ -180,7 +182,7 @@ One thing you need to keep in mind is that the reliability coefficient is depend
 
 ### Measurement Reliability 
 
-* No measurement is perfectly reliable
++ No measurement is perfectly reliable
   + Strive for 0.7 or higher in research
   + 0.6 is "borderline".
   + Might require 0.9 or higher for individual decisions
@@ -203,11 +205,11 @@ Reliability is usually established when a measure is developed. When you go abou
 
 ### Stop here for questions
 
-* What you have learned.
++ What you have learned.
   + Measurements that require special scrutiny
   + Reliability coefficient
   
-* What's coming next
++ What's coming next
   + Indirect measures of the reliability coefficient
 
 <div class="notes">
@@ -220,10 +222,10 @@ You can't measure the reliability coefficient directly, but next, you'll see sev
 
 ### Indirect measures of the reliability coefficient
 
-* Test-retest
-* Interrater
-* Parallel forms
-* Internal consistency
++ Test-retest
++ Interrater
++ Parallel forms
++ Internal consistency
 	+ Split-half
 	+ Kuder-Richardson 20
 	+ Cronbach’s alpha
@@ -235,13 +237,13 @@ Even though the reliability coefficient cannot be measured directly, you can usu
 </div>
 
 ### Test-retest reliability (also called repeatability)
-* Correlation of two measurements separated by time
-* Length of time interval is critical
++ Correlation of two measurements separated by time
++ Length of time interval is critical
   + No carry-over
   + No changes in the true score
-* Useful for composite scores and single values
-* Useful for self-report and researcher evaluation
-* Not possible for some measures
++ Useful for composite scores and single values
++ Useful for self-report and researcher evaluation
++ Not possible for some measures
 
 <div class="notes">
 
@@ -265,16 +267,14 @@ Test-retest reliability works well for any type of measure. But it can't always 
 
 ### Inter-rater reliability
 
-* Simplest case
++ Simplest case
   + Two independent raters
   + Ratings for every patient
-* Analysis
-  + Intraclass correlation
-  + Cohen's Kappa
-* Extensions
-  + Rate random subsets
-  + More than two raters
-* Used for researcher evaluations only
++ Analysis
+  + Intraclass correlation or Cohen's Kappa
++ Extensions
+  + Rate random subsets and/or more than two raters
++ Used for researcher evaluations only
 
 <div class="notes">
 
@@ -292,10 +292,10 @@ You can't always have all the raters rate all the patients, especially if you ha
 
 ### Take a break for more questions
 
-* What have you learned so far.
++ What have you learned so far.
   + Test-retest measures of reliability
   + Inter-rater reliability
-* What is coming next
++ What is coming next
   + Measures of internal consistency
   
 <div class="notes">
@@ -308,14 +308,12 @@ Next, we'll talk about some very different measures of reliability, measures of 
 
 ### Parallel forms
 
-* "No man ever steps in the same river twice, for it's not the same river and he's not the same man."
++ "No man ever steps in the same river twice, for it's not the same river and he's not the same man."
   + Heraclitus
-* Used when you can't run the same measurement twice.
-* How to develop parallel forms
++ Used when you can't run the same measurement twice.
   + Change the question order 
   + Minor changes to the wording
-* Difficult to develop two parallel forms of the same measurement.
-* Only used for composite measures
++ Only used for composite measures
 
 <div class="notes">
 
@@ -335,11 +333,11 @@ The parallel forms measure of reliability is not used that frequently, because i
 
 ### Split half reliability
 
-* Split into halves, correlated
++ Split into halves, correlated
   + Odd-even split
   + Random split
-* Brown-Spearman adjustement
-* Only used for composite measurements
++ Brown-Spearman adjustement
++ Only used for composite measurements
 
 <div class="notes">
 
@@ -355,8 +353,8 @@ You do need to be careful, though. The reliability of a composite measurement is
 
 ### Kuder-Richardson 20 (KR-20)
 
-* Only for composite measures with binary items
-* Measures inter-item correlation
++ Only for composite measures with binary items
++ Measures inter-item correlation
   + Compared to independent items
   + Small KR-20 implies poor split half correlations
 
@@ -376,8 +374,8 @@ Keep in mind that if you have a different population, the minimum variation woul
   
 ### Cronbach’s alpha
 
-* Used for composite measurements with continuous items
-* Measures inter-item correlation
++ Used for composite measurements with continuous items
++ Measures inter-item correlation
   + Compared to independent items
   + Small Cronbach's alpha implies poor split half correlations
 
@@ -399,9 +397,9 @@ Some people confuse the concept of internal consistency with uni-dimensionality.
   
 ### Practical guidance on reliability
 
-* Is there previous literature?
++ Is there previous literature?
   + Report their reliability coefficients
-* Is your setting similar?
++ Is your setting similar?
   + Different demographics?
   + Different cultural norms?
   + Different literacy?
@@ -431,10 +429,10 @@ The general target value for a reliability coefficient is 0.7 or higher. You mig
 
 ### Time for more questions
 
-* What have you learned so far.
++ What have you learned so far.
   + Measures of internal consistency
   + Practical advice about reliability
-* What is coming next
++ What is coming next
   + Measurement validity
 
 <div class="notes">
@@ -447,13 +445,13 @@ Next, we'll tackle measurement validity.
 
 ### Measurement Validity 
 
-* Reliability by itself is not enough.
++ Reliability by itself is not enough.
   + Consistent measures of the "wrong thing" is bad
-* Examples of the wrong thing
++ Examples of the wrong thing
   + Measuring anxiety instead of stress
   + Measuring transient changes in a patient's mood rather than chronic depression
-* Reliability is a pre-requisite for validity
-* Validity is a journey and not a destination
++ Reliability is a pre-requisite for validity
++ Validity is a journey and not a destination
 
 <div class="notes">
 
@@ -463,7 +461,7 @@ This can happen very easily. You might think that you are measuring the stress t
 
 So in addition to establishing that your measurement has good reliability, you also have to establish good validity.
 
-Validity is, to quote from your book, the "degree to which a measure measures that which it was intended to measure."
+Validity is the degree to which a measure measures that which it was intended to measure.
 
 If you intend to measure A and you measure B instead, you have poor validity.
 
@@ -475,11 +473,9 @@ The other thing to keep in mind is that validity is not something that you estab
 
 ### Types of measurement validity 
 
-* Validity
-  + "Degree to which a measure ... measures that which it was intended to measure"
-* Types of validity
-  + Face validity
-  + Content validity
++ Validity is the degree to which a measure measures that which it was intended to measure
++ Types of validity
+  + Face/content validity
   + Response process validity
   + Criterion validity
   + Construct validity
@@ -492,11 +488,11 @@ There are several different ways to establish validity. I'll talk about each of 
 
 ### Face validity and content validity
 
-* Only used for composite measures
-* Face validity
++ Only used for composite measures
++ Face validity
   + Opinions from your patients
   + Subjective and unquantifiable
-* Content validity
++ Content validity
   + Opinions from experts
   + Also subjective and unquantifiable
 
@@ -530,14 +526,12 @@ Now your teacher, on the other hand, you can argue with him until the cows come 
 
 ### Response process evidence
 
-* Observe the process
-  + Watch as patients fill out the form
-  + Ask questions along the way
-  + Monitor response times
-  + Encourage them to think aloud
-* Supplement with interview
-* Goal is to identify problematic elements
-  + Confusion, misunderstandings, language issues
++ Observe the process
+  + Watch as patients fill out the form, monitor response times
+  + Ask questions along the way, encourage them to think aloud
++ Supplement with interview
++ Goal is to identify Confusion, misunderstandings, language issues
++ Used only for composite measures
 
 <div class="notes">
 
@@ -551,31 +545,31 @@ You can do this sort of exercise with experts as well as patients. Ask your expe
 
 </div>
 
-### Take fourth break here
+### Take another break for questions
 
-* What have you learned
++ What have you learned
   + General concept of validity
   + Face and content validity
   + Response process evidence
-* What's coming up
++ What's coming up
   + Criterion validity
   + Construct validity
 
 <div class="notes">
 
-Let's stop again. You've seen a general definition of validity and specific examples of face and content validity. Next we'll discuss criterion validity and construct validity.
+Let's stop again for questions. You've seen a general definition of validity and specific examples of face and content validity. Next we'll discuss criterion validity and construct validity.
 
 </div>
 
 ### Criterion validity
 
-* Comparison to external criterion
++ Comparison to external criterion
   + Represents "truth"
   + Not always available
-* Predictive evidence
++ Predictive evidence
   + Measurement in the future
   + Be careful about dropouts
-* Concurrent evidence
++ Concurrent evidence
   + Measured at the same time
 
 <div class="notes">
@@ -604,12 +598,11 @@ Now this approach has limits. You can never get quite as much evidence of validi
 
 ### Construct validity
 
-* Used for a psychological construct
-* No direct measure of the truth exists
-* Define associations consistent with your constuct
++ No direct measure of the truth exists
++ Define associations consistent with your constuct
   + Does your measurement show the expected association?
   + Known as convergent evidence
-* Define non-associations with your construct
++ Define non-associations with your construct
   + Does your measurement also show non-association?
   + Known as discriminant or divergent evidence
 
@@ -619,37 +612,197 @@ Construct validity is when you are developing a psychological construct and you 
 
 </div>
 
-### Alternative framework for validity
-
-* Content
-* Response processes
-* Internal structure
-* Relations to other variables
-* Consequences
+### Factor analysis as a form of validation
++ Establish unidimensionality
++ Scale purification
++ Exploratory versus confirmatory
 
 <div class="notes">
 
-Your book cites a different standard for establishing validity. It's a good standard, but not used that commonly in my experience. Read this on your own.
+Some researchers have argued that factor analysis offers a way to establish validity. The literature is not very clear on how factor analysis fits in to validity. Factor analysis is a useful tool to establish unidimentionality. Unidimensionality means that all of the components of a composite score are measuring the same thing. But without knowing what that "thing" is, how does this help establish validity? Typically, you would combine unidimensionality with face or content validity.
 
-</div>
+Factor analysis is also used for something known as scale purification. If you have twelve items for a composite scale, factor analysis might identify two that don't really correlate well with the other ten. Then you would improve the composite measure by tossing the two components out.
 
-### Validity of diagnostic tests
-+ Sensitivity
-	+ A test's ability to obtain a positive result when the target condition is really present
-+ Specificity
-	+ A test's ability to obtain a negative result when the target condition is really absent
+I dislike this because I think it is a mistake to tinker with a scale that has worked well in the past.
 
-<div class="notes">
-
-Diagnostic tests are a special example of validation. It is essentially criterion validity using predictive evidence. Since the diagnostic measurement is binary and the criterion is binary, you can summarize the results using a two by two table. I won't go into any detail on sensitivity and specificity except to mention that I can never remember which is sensitivity and which is specificity.
+If you use factor analysis, you have the choice between exploratory factor analysis and confirmatory factor analysis. Both are fine, but if you had to choose, you should use exploratory factor analysis when you are a pioneer in this area of measurement and use confirmatory factor analysis when the measurement already has an established track record.
 
 </div>
 
 ### Stop here
 
-* What have you learned so far?
++ What have you learned so far?
   + Criterion validity
   + Construct validity
-* Next week
-  + Spring break
-  + After that, data collection issues
+
+### Case study #1 - NES
+
+![NES questionnaire, magnified](../images/nes-magnified.png)
+
+<div class="notes">
+
+Here is the Neighborhood Environment Survey again.
+
+This is a self report and it is also a composite measure.
+
+</div>
+
+### Case study #1 - NES
++ Reliability - What you can't do
+  + Inter-rater reliability
+  + Cronbach's alpha
++ Reliability - What you can do
+  + Test-retest reliability
+  + KR-20
+
+
+<div class="notes">
+
+This is a composite measure and a self report. You can't compare two or more raters because there is only one "self."
+
+Cronbach's alpha is used for components that are continuous and this scale has binary (true/false) statements.
+
+It is easy to run a test-retest reliability study. Neighborhoods don't change overnight, so it would be fine to wait a week or so.
+
+The binary components make KR-20 a natural choice for this scale.
+
+</div>
+
+### Case study #1 - NES
++ Validity - What you can't do
+  + Criterion validity
++ Validity - What you can do
+  + Face/content validity
+  + Response process validity
+  + Factor analysis
+  + Construct validity
+
+### Case study #2 - Pain scale
+
+![Pain scale](../images/pain-scale.png)
+
+<div class="notes">
+
+This is a pain scale again. It is a self report, but it is a single measure rather than a composite.
+
+</div>
+
+### Case study #2 - Pain scale
++ Reliability - What you can't do
+  + Inter-rater reliability
+  + Cronbach's alpha
+  + KR-20
++ Reliability - What you can do
+  + Test-retest reliability
+
+<div class="notes">
+
+Like the first measurement, this self report scale cannot compare two or more independent raters. It is a single measurement, so you can't apply Cronbach's alpah or KR-20.
+
+Test-retest reliability works well here, but you have to make sure that you are quick. A narrow time interval between the test and the re-test is important if you are looking at acute pain.
+
+</div>
+
+### Case study #2 - Pain scale
++ Validity - What you can't do
+  + Face/content validity
+  + Response process validity
+  + Criterion validity
+  + Factor analysis
++ Validity - What you can do
+  + Construct validity
+
+
+### Case study #3 - Apgar score
+
+![Apgar score](../images/apgar.png)
+
+<div class="notes">
+
+This is the Apgar score again. T is a composite measure collected by the researcher and not by self report.
+
+</div>
+
+### Case study #3 - Apgar score
++ Reliability - What you can't do
+  + Test-retest reliability
+  + KR-20
++ Reliability - What you can do
+  + Inter-rater reliability
+  + Cronbach's alpha
+
+<div class="notes">
+
+Because timing is important, you cannot evaluate the Apgar score at one minue and at two hours. You also can't use KR-20 because it is not binary.
+
+Inter-rater reliability is very easy and very useful here. Have two raters at the scene of the birth and ask them to estimate the Apgra score. No peeking! Then correlate the responses.
+
+Cronbach's alpha is really intended for continuous components, and values of 0, 1, and 2 are not really on a continuum. But there is nothing terribly wrong with pretending it is continuous. 
+
+</div>
+
+### Case study #3 - Apgar score
++ Validity - What you can't do
+  + Construct validity
++ Validity - What you can do
+  + Face/content validity
+  + Response process validity
+  + Criterion validity
+  + Factor analysis
+  
+<div class="notes">
+
+Construct validity is hard to apply here. There is no theory of what an Apgar is or is not associated with.
+
+It is a composite measure so you can have experts review the individual components. You can also watch as someone answers the five components of the Apgar score. There are several predictive criterion. Does a low Apgar score predict infant mortality?
+
+You can run a factor analysis on the Apgar score because it has multiple comonents.
+
+</div>
+
+### Case study #4 - Boston Bowel Prep Score
+
+![Excerpt from Lai et al article](../images/bbps-magnified.png)
+
+<div class="notes">
+
+This is an example of a physician report. No self report is available here. But you still want to examine reliability and validity because this does have the potential to be perceived as subjective.
+
+Note also that, unlike the Apgar score, this is not a composite measure. There is a single number that you get.
+
+</div>
+
+### Case study #4 - Boston Bowel Prep Score
++ Reliability - What you can't do
+  + Test-retest reliability
+  + Cronbach's alpha
+  + KR-20
++ Reliability - What you can do
+  + Inter-rater reliability
+
+
+### Case study #4 - Boston Bowel Prep Score
++ Validity - What you can't do
+  + Construct validity
+  + Face/content validity
+  + Response process validity
++ Validity - What you can do
+  + Criterion validity
+  + Factor analysis
+  
+<div class="notes">
+
+
+
+</div>
+
+### Conclusion
++ Different measurements require different approaches
+  + Self report versus researcher evaluation
+  + Composite scores versus single items
+
+<div class="notes">
+
+Different measures of reliability and validity apply depending on whether your measurement is a self report or not and depending on whether it is a composite measure or not.
+
+</div>
