@@ -568,9 +568,10 @@ Let's stop again for questions. You've seen a general definition of validity and
   + Not always available
 + Predictive evidence
   + Measurement in the future
-  + Be careful about dropouts
+  + Example: Imaging study confirmed by later biopsy
 + Concurrent evidence
   + Measured at the same time
+  + Example: Smoking self report compared to saliva nicotine levels
 
 <div class="notes">
 
@@ -783,12 +784,12 @@ Note also that, unlike the Apgar score, this is not a composite measure. There i
 
 ### Case study #4 - Boston Bowel Prep Score
 + Validity - What you can't do
-  + Construct validity
   + Face/content validity
   + Response process validity
-+ Validity - What you can do
-  + Criterion validity
   + Factor analysis
+  + Criterion validity
++ Validity - What you can do
+  + Construct validity
   
 <div class="notes">
 
