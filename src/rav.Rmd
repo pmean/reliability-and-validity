@@ -7,12 +7,13 @@ output:
 ---
 
 ### Outline
-+ Four case studies
-+ Two dichotomies of measurement
++ Five case studies
++ Three dichotomies of measurement
   + Self reported Outcomes versus researcher evaluations
   + Single measurements versus composite scores
-+ Different approaches for reliability and validity
-  + When you can NOT use a particular approach.
++ Assessing reliability
++ Assessing validity
++ Revisit five case studies
 
 <div class="notes">
 
@@ -63,9 +64,9 @@ I realize this image might be difficult to read on your computer. I'm going to m
 
 </div>
 
-### Case study #1 - NES
+### Case study #1
 
-![NES questionnaire, magnified](../images/nes-magnified.png)
+![](../images/nes-image.jpg)
 
 <div class="notes">
 
@@ -213,6 +214,22 @@ is copyrighted and is covered under the "Fair use" provisions of copyright law. 
 
 </div>
 
+### Review
+
++ What you've seen so far
+  + Five case studies
++ What is coming next
+  + Three dichotomies of measurement
+  + Assessing reliability
+  + Assessing validity
+  + Revisit five case studies
+  
+<div class="notes">
+
+so far, you've seen five case studies where you may want to assess reliability and validity. These are very different types of measurements and you can classify them into three important dichotomies. These three dichotomies will help you assess the best approach to take for assessing reliability and validity.
+
+</div>
+
 ### Measurement quotes (1 of 2)
   
 + "The government is extremely fond of amassing great quantities of statistics. These are raised to the Nth degree, the cube roots are extracted, and the results are arranged into elaborate and impressive displays. What must be kept ever in mind, however, is that in every case, the figures are first put down by a village watchman, and he puts down anything he damn well pleases." 
@@ -235,14 +252,12 @@ I also have to quote Stephen Jay Gould here as well. He wrote an excellent book,
 
 </div>
 
-### Measurements that warrant closer scrutiny
+### First dichotomy: Who is the measurer?
 
 + Self reported outcomes
   + Also know as patient reported outcomes
 + Researcher evaluations
   + Only when concerned about subjectivity
-+ Composite scores
-+ Psychological constructs
 
 <div class="notes">
 
@@ -258,13 +273,49 @@ It is worth noting that these factors also influence researcher observation, but
 
 There is a fair amount of scrutiny of researcher evaluations when these evaluations are perceived as having a high level of subjectivity. Now, our perceptions as to what is subjective are also subjective, so you need to be careful.
 
-Psychological constructs are tools used to measure aspects of human behavior, such as intelligence, self-esteem, stress, and extraversion. In spite of recent advances in brain imaging, you cannot, for the most part, peek inside someone's mind and understand how they think. 
+</div>
 
-Finally, many measures in clinical research are composites of one or more items. These individual items are scored and added up to get a total. If the individual items are chosen well, this can be a very effective approach, but you need to be careful.
+### Second dichotomy: How many pieces?
+
++ Composite scores
+  + Sum or average
++ Single measurement
+
+<div class="notes">
+
+Many measures in research are composites of one or more items. These individual items are scored and added up to get a total. Sometimes you average them instead of summing them. That's a minor distinction. In general, a composite measure involves evaluating something from many different angles. If you do this well,, this can be a very effective approach. But you do need to be careful.
+
+In contrast, some measures are just a single number and there is no summing or averaging involved. There is just a single question or a single evaluation. It is a difficult decision to choose whether to develop a measurement using a composite scale versus a single measurement, and it depends a lot on what you are measuring.
+
+The general consensus among researchers is that you get a better picture of something with a composite scale, but some measures do not warrant this extra effort.
 
 </div>
 
-### Examples of  reported outcomes
+### Third dichotomy: is the measure soft or hard?
++ Constructs
+  + Created and accepted by you and me
+  + Impossible to observe directly
+  + Examples: stress, anxiety
+  
+<div class="notes">
+
+Constructs are measurements of something that is considered soft. They do not have an indepent existence but are created by society. Almost all measures in psychology, such stress and anxiety, are constructs because you do not have the ability to peer inside someone's brain.
+
+</div>
+  
+### Third dichotomy: is the measure hard or soft
++ Biological or physical measure
+  + Has an objective reality
+  + Potential for direct observation
+  + Example: obesity, dementia
+  
+<div class="notes">
+
+Some people argue that everything is socially constructed, but this is rather silly, in my opinion. Some things have an objective reality and were not created by us. Obesity is a physical concept that can be measured using body mass index, percentage of body fat, waist to hip ratio and many others. They all represent a physical manifestation of excess weight. Dementia also has a physical manifestion. You can't measure it without autopsy perhaps, but there is a physical change in your brain that causes dementia.
+
+</div>
+
+### Examples of self reported outcomes
 
 :::::: {.columns}
 ::: {.column width="50%"}
@@ -305,6 +356,110 @@ You also do not see self reports in assessing the bowel preparation, unless you 
 </div>
 
 ### Examples of composite scores
+
+:::::: {.columns}
+::: {.column}
+![](../images/nes-image.jpg)
+:::
+
+::: {.column}
+![](../images/apgar-image.jpg)
+:::
+::::::
+
+<div class="notes">
+
+The neighborhood environment scale is a composite measurement because you ask 18 separate questions. The Apgar score is also a composite measurement because you rate the infant on five separate items.
+
+</div>
+
+### Examples of single measurements
+
+:::::: {.columns}
+::: {.column}
+![](../images/pain-image.jpg)
+:::
+
+::: {.column}
+![](../images/bbps-image.jpg)
+:::
+::::::
+
+<div class="notes">
+
+The pain score is a single measurement. You do not ask about five different types of pain and add them up. Likewise, the Boston Bowel Prep score is a single measurement.
+
+</div>
+
+### Examples of constructs
+
+:::::: {.columns}
+::: {.column width="50%"}
+![](../images/disgust-image.jpg)
+:::
+
+::: {.column width="50%"}
+![](../images/nes-image.jpg)
+:::
+::::::
+
+### Examples of biological or physical measurements
+
+:::::: {.columns}
+::: {.column width="50%"}
+![](../images/bbps-image.jpg)
+:::
+
+::: {.column width="50%"}
+![](../images/pain-image.jpg)
+:::
+::::::
+
+
+### Pop quiz
+
+:::::: {.columns}
+::: {.column}
+![](../images/disgust-image.jpg)
+:::
+
+::: {.column}
++ Is the disgust score 
+  + a self report or
+  + a researcher evaluation?
++ Is the disgust score
+  + a composite measure or
+  + a single measurement?
+  
+:::
+::::::
+
+<div class="notes">
+
+I put in the disgust scale because it is the perfect example of a psychological construct. 
+
+But is it a self report or a researcher evaluation?
+
+Is is a composite measure or a single measurement?
+
+</div>
+
+### Review and stop for questions
+
++ What you've seen so far
+  + Five case studies
+  + Three dichotomies of measurement
++ What is coming next
+  + Assessing reliability
+  + Assessing validity
+  + Revisit five case studies
++ Any questions?
+  
+<div class="notes">
+
+so far, you've seen five case studies and discussed where they fit among the three dichotomies. Next, you'll see various approaches to reliability and when you can or cannot use them.
+
+</div>
 
 ### Measurement Reliability 
 
@@ -354,32 +509,11 @@ Reliability is usually established when a measure is developed. When you go abou
 
 </div>
 
-### Stop here for questions
-
-+ What you have learned.
-  + Measurements that require special scrutiny
-  + Reliability coefficient
-  
-+ What's coming next
-  + Indirect measures of the reliability coefficient
-
-<div class="notes">
-
-Let's take a break here for questions. We've talked about the types of measurements that typically draw extra concern. We also developed a hypothetical model relating the observed measurement to the true measurement plus measurement error. This allowed us to define the reliability coefficient.
-
-You can't measure the reliability coefficient directly, but next, you'll see several approaches that can provide an indirect measure of this quantity.
-
-</div>
-
 ### Indirect measures of the reliability coefficient
 
 + Test-retest
 + Interrater
-+ Parallel forms
 + Internal consistency
-	+ Split-half
-	+ Kuder-Richardson 20
-	+ Cronbach’s alpha
 
 <div class="notes">
 
@@ -424,7 +558,7 @@ Test-retest reliability works well for any type of measure. But it can't always 
 + Analysis
   + Intraclass correlation or Cohen's Kappa
 + Extensions
-  + Rate random subsets and/or more than two raters
+  + See Audrey's webinar
 + Used for researcher evaluations only
 
 <div class="notes">
@@ -441,108 +575,62 @@ You can't always have all the raters rate all the patients, especially if you ha
 
 </div>
 
-### Take a break for more questions
 
-+ What have you learned so far.
-  + Test-retest measures of reliability
-  + Inter-rater reliability
-+ What is coming next
-  + Measures of internal consistency
-  
-<div class="notes">
+### Measures of internal consistency
 
-Time to ask for more questions. We've talked about test-retest reliability. The tricky part here is deciding how far apart in the time the test and retest have to be. You also learned about inter-rater reliability, which is used for researcher evaluations where you are concerned about subjectivity in the measurement process.
-
-Next, we'll talk about some very different measures of reliability, measures of internal consistency. I don't like these measures nearly as much, but you do need to know about them because they are used quite often.
-
-</div>
-
-### Parallel forms
-
-+ "No man ever steps in the same river twice, for it's not the same river and he's not the same man."
-  + Heraclitus
-+ Used when you can't run the same measurement twice.
-  + Change the question order 
-  + Minor changes to the wording
-+ Only used for composite measures
-
-<div class="notes">
-
-Sometimes the very act of measuring someone changes that person. I do this all the time. I put a quiz up each week, not to test you so much as to reinforce some of the key messages in my videos. The questions are not intended to challenge you and assess how much you've learned. Having come up with an answer, that helps you remember the key concepts better.
-
-The opposite tendency can occur as well. The novelty of answering questions wears off over time and people may grow tired or bored and not answer the exact same questions a second time.
-
-How likely is this to happen? It depends a lot on what is being measured. Measures of knowledge and understanding are more likely to have carry over effects.
-
-In some settings, you can create a second version of your measurement by making minor changes. This could be in the wording or the ordering of the questions.
-
-How much of a change do you want? Too little and you still have problems with carry over. Too much and you are no longer measuring the same thing.
-
-The parallel forms measure of reliability is not used that frequently, because it just about kills you to get one version of a measurement up and running. Who wants to develop two parallel forms. It's worth introducing here, though, because it helps you understand the next three forms of reliability.
-
-</div>
-
-### Split half reliability
-
-+ Split into halves, correlated
-  + Odd-even split
-  + Random split
-+ Brown-Spearman adjustement
++ Cronbach's alpha
++ Variations on Cronbach's alpha
+  + Split half correlation with Brown-Spearman adjustement
+  + Kuder-Richardson 20
 + Only used for composite measurements
 
 <div class="notes">
 
-If your measurement is a composite measure, then you can look at the correlation of the individual components to assess reliability.
+If your measurement is a composite measure, then you can look at the internal consistency of the individual components to assess reliability.
 
-You could split the measure in half, calling the even numbered items the first form and the odd numbered items the second form. The correlation between the odds and the evens is a measure of reliability.
+This is most commonly done with a statistic known as Cronbach's alpha. I will not define it here, but you can find the formula on the web.
 
-It doesn't have to be evens versus odds. You might want to assign items randomly to the first half versus the second half.
+There are some close cousins to Cronbach's alpha, such as the split half correlation and Kuder-Richardson 20 but don't worry about these variations.
 
-You do need to be careful, though. The reliability of a composite measurement is frequently thought to be related to the number of items in the composite. The greater the number of items, the greater the reliability. So if you artificially shorten the measurement, you are underestimating reliability. There is a simple adjustment, called the Spearman-Brown formula that most researchers use when looking at split half correlations.
+You can only use Cronbach's alpha or any of its variants for composite measurements.
 
 </div>
 
-### Kuder-Richardson 20 (KR-20)
+### Criticisms of Cronbach's alpha
++ Not a substitute for other methods for assessing reliability
++ Affected by number of components
++ Not a measure of unidimensionality
++ Not useful for scale purification
++ My recommendation
+  + Only use it if you are forced to
 
-+ Only for composite measures with binary items
-+ Measures inter-item correlation
-  + Compared to independent items
-  + Small KR-20 implies poor split half correlations
 
 <div class="notes">
 
-Another measure for reliability, Kuder-Richardson 20, is used for composite measures, but only those composite measures that have binary items. 
+I have never liked Cronbach's alpha. It is easy to compute. Too easy. I think people rely on it because they did not want to take the time or trouble to use a better measure of reliability like test-retest reliability or inter-rater reliability.
 
-If you are curious, KR-20 compares  a :sort of" theoretical minimum variation, a variation computed using independent Bernoulli random variables, but with different p's and q's for each item. Strictly speaking, this is not accurate, but not worth worrying about, as it never occurs in practice.
+Alpha is affected by the number of components in a composite scale. But it is a rather arbitrary relationship. Adding more items to a composite scale will always increase alpha. So if you got a substandard result with Cronbach's alpha, you could "game" the system by adding more components, even if those components did not add any value.
 
-You compare the minimum variation to the variation observed among the total scores in the sample. If the observed variation is equal to the theoretical minimum, the individual items are behaving randomly, with no internal consistency. This means that any split halves that you could compute would have next to no correlation.
+Alpha is also not a measure of unidimensionality. Unidimensinoality means that you are measuring one thing and one thing only. This is important for validity, because if you are mixing two things together, you will not have validity for either measure. But internally consistent measures could easily be bi-dimensinoal or tri-dimensional.
 
-If there is much more observed variation, that means that people show positive correlations. Low on one item means low on most of the other items and high on one item means high on the other items. This positive correlation is a measure of internal consistency.
-
-Keep in mind that if you have a different population, the minimum variation would stay the same, but the observed variation might change. So a measure that is reliable in one population might prove to be not reliable in a different population.
+Some people use a "leave one out" approach to reliability and if Cronbach's alpha improves markedly when one item is removed, that is, to them, an indication that the scale could be improved (purified if you will) by removing that item.
 
 </div>
   
-### Cronbach’s alpha
-
-+ Used for composite measurements with continuous items
-+ Measures inter-item correlation
-  + Compared to independent items
-  + Small Cronbach's alpha implies poor split half correlations
+### Cronbach’s alpha - my recommendation
++ Always try to get test-retest or inter-rater reliability
++ Use confirmatory factor analysis for
+  + Unidimensionality
+  + Scale purification
++ Put it in only if you are forced to
 
 <div class="notes">
 
-A similar measure, Cronbach's alpha is used for composite measures, but does not require the individual items to be binary.
+It is more work but always try to get either test-retest or inter-rater reliability.
 
-Again, your book does a poor job explaining this, and the notation is confusing.
+If you are worried about unidimensionality or want to purify your scale, use confirmatory factor analysis.
 
-Just like Kuder-Richardson 20, Cronbach's alpha computes a a theoretical minimum variation, this time under a normality assumption. 
-
-You compare the minimum variation to the variation observed in the total score. If the two values are close, that tells you that the individual items are more or less independent of each other and that any split halves that you might compute would have little or no correlation.
-
-If there is much more observed variation, that means that people show positive correlations. Low on one item means low on most of the other items and high on one item means high on the other items. This positive correlation is a measure of internal consistency.
-
-Some people confuse the concept of internal consistency with uni-dimensionality. Uni-dimensionality means that all of the items are measuring the same construct. If they are, then Cronbach's alpha will be large. But you can also get a large value for Cronbach's alpha, even when the items are measuring multiple constructs, especially when you have a large number of items. Dimensionality can only be measured using some form of factor analysis.
+Alpha is not a terrible statistic, just not very helpful. So if your boss or a peer-reviewer demands it, why bother fighting. As long as you do other assessments of reliability, you should be okay.
 
 </div>
   
@@ -550,11 +638,11 @@ Some people confuse the concept of internal consistency with uni-dimensionality.
 
 + Is there previous literature?
   + Report their reliability coefficients
-+ Is your setting similar?
-  + Different demographics?
-  + Different cultural norms?
-  + Different literacy?
-  + Different language?
++ Reassess reliability if you have
+  + Different demographics
+  + Different cultural norms
+  + Different literacy
+  + Different language
 
 <div class="notes">
 
@@ -575,6 +663,23 @@ I do not like these measures. Let me restate that. I despise these measures. The
 If you can't measure reliability using a test-retest approach or using inter-rater reliability, then go ahead and use these other approaches. But they are a pale substitute in my opinion.
 
 The general target value for a reliability coefficient is 0.7 or higher. You might get by with a reliability coefficient of 0.6, but don't count on it.
+
+</div>
+
+## Review and stop for questions
+
++ What you've seen so far
+  + Five case studies
+  + Three dichotomies of measurement
+  + Assessing reliability
++ What is coming next
+  + Assessing validity
+  + Revisit five case studies
++ Any questions?
+  
+<div class="notes">
+
+so far, you've seen five case studies and discussed where they fit among the three dichotomies. Next, you'll see various approaches to reliability and when you can or cannot use them.
 
 </div>
 
@@ -831,7 +936,7 @@ The binary components make KR-20 a natural choice for this scale.
 
 ### Case study #2 - Pain scale
 
-![Pain scale](../images/pain-scale.png)
+![Pain scale](../images/pain-image.jpg)
 
 <div class="notes">
 
@@ -867,7 +972,7 @@ Test-retest reliability works well here, but you have to make sure that you are 
 
 ### Case study #3 - Apgar score
 
-![Apgar score](../images/apgar.png)
+![Apgar score](../images/apgar-image.jpg)
 
 <div class="notes">
 
