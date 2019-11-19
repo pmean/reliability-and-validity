@@ -1,0 +1,24 @@
+---
+title: "Test"
+author: "Steve Simon"
+date: "11/19/2019"
+output: powerpoint_presentation
+---
+
+### Two column format
+
+:::::: {.columns}
+::: {.column width="50%"}
+![](../images/pain-image.jpg)
+:::
+
+::: {.column width="50%"}
+![](../images/nes.png)
+:::
+::::::
+
+<div class="notes">
+
+Test notes.
+
+</div>
