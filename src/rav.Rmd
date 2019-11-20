@@ -64,7 +64,7 @@ I realize this image might be difficult to read on your computer. I'm going to m
 
 </div>
 
-### Case study #1
+### Case study #1 - NES
 
 ![](../images/nes-image.jpg)
 
@@ -666,7 +666,7 @@ The general target value for a reliability coefficient is 0.7 or higher. You mig
 
 </div>
 
-## Review and stop for questions
+### Review and stop for questions
 
 + What you've seen so far
   + Five case studies
@@ -677,20 +677,6 @@ The general target value for a reliability coefficient is 0.7 or higher. You mig
   + Revisit five case studies
 + Any questions?
   
-<div class="notes">
-
-so far, you've seen five case studies and discussed where they fit among the three dichotomies. Next, you'll see various approaches to reliability and when you can or cannot use them.
-
-</div>
-
-### Time for more questions
-
-+ What have you learned so far.
-  + Measures of internal consistency
-  + Practical advice about reliability
-+ What is coming next
-  + Measurement validity
-
 <div class="notes">
 
 Wow. That's a lot to digest. Don't be afraid to ask me questions about reliability. Let's take a break here for questions. We talked about measures of internal consistency and why I don't like them. We also talked about some practical advice: report reliability measures from your literature review and measure reliability, if you can, in your current study.
@@ -744,13 +730,23 @@ There are several different ways to establish validity. I'll talk about each of 
 
 ### Face validity and content validity
 
-+ Only used for composite measures
+:::::: {.columns}
+::: {.column width="50%"}
 + Face validity
   + Opinions from your patients
   + Subjective and unquantifiable
++ Only used for composite measures
+:::
+
+::: {.column width="50%"}
 + Content validity
-  + Opinions from experts
-  + Also subjective and unquantifiable
+  + Opinions from outside experts
+  + Subjective and unquantifiable
++ Only used for composite measures
+:::
+::::::
+
+
 
 <div class="notes">
 
@@ -798,22 +794,6 @@ There's nothing too difficult about this. As you observe the process, ask questi
 You can supplement this process with an interview afterwards. Your goal in this exercise is to identify items that are confusing or ambiguous, or which seem to draw the wrong type of response. Look especially for issues which may come from the use of excessively technical language.
 
 You can do this sort of exercise with experts as well as patients. Ask your experts to pretend that they are patients and get them to fill things out, talk aloud, and ask them questions along the way.
-
-</div>
-
-### Take another break for questions
-
-+ What have you learned
-  + General concept of validity
-  + Face and content validity
-  + Response process evidence
-+ What's coming up
-  + Criterion validity
-  + Construct validity
-
-<div class="notes">
-
-Let's stop again for questions. You've seen a general definition of validity and specific examples of face and content validity. Next we'll discuss criterion validity and construct validity.
 
 </div>
 
@@ -886,15 +866,26 @@ If you use factor analysis, you have the choice between exploratory factor analy
 
 </div>
 
-### Stop here
+### Review and stop for questions
 
-+ What have you learned so far?
-  + Criterion validity
-  + Construct validity
++ What you've seen so far
+  + Five case studies
+  + Three dichotomies of measurement
+  + Assessing reliability
+  + Assessing validity
++ What is coming next
+  + Revisit five case studies
++ Any questions?
+  
+<div class="notes">
 
-### Case study #1 - NES
+That's pretty much it, except for a revisit to the five case studies.
 
-![NES questionnaire, magnified](../images/nes-magnified.png)
+</div>
+
+### Case study #1
+
+![](../images/nes-image.jpg)
 
 <div class="notes">
 
@@ -904,13 +895,15 @@ This is a self report and it is also a composite measure.
 
 </div>
 
-### Case study #1 - NES
+### Case study #1 - Neighborhood environment survey
+![](../images/nes-measurement.png)
+
+### Case study #1 - Neighborhood environment survey
 + Reliability - What you can't do
   + Inter-rater reliability
-  + Cronbach's alpha
 + Reliability - What you can do
   + Test-retest reliability
-  + KR-20
+  + Cronbach's alpha
 
 
 <div class="notes">
@@ -921,11 +914,11 @@ Cronbach's alpha is used for components that are continuous and this scale has b
 
 It is easy to run a test-retest reliability study. Neighborhoods don't change overnight, so it would be fine to wait a week or so.
 
-The binary components make KR-20 a natural choice for this scale.
+You can also run Cronbach's alpha here. If you are a stickler for detail, the reliability measure in this case is better described as Kuder-Richardson 20 because the individual components are binary.
 
 </div>
 
-### Case study #1 - NES
+### Case study #1 - Neighborhood environment survey
 + Validity - What you can't do
   + Criterion validity
 + Validity - What you can do
@@ -934,15 +927,19 @@ The binary components make KR-20 a natural choice for this scale.
   + Factor analysis
   + Construct validity
 
-### Case study #2 - Pain scale
+### Case study #2
 
-![Pain scale](../images/pain-image.jpg)
+![](../images/pain-image.jpg)
 
 <div class="notes">
 
 This is a pain scale again. It is a self report, but it is a single measure rather than a composite.
 
 </div>
+
+### Case study #2 - Pain scale
+
+![](../images/pain-measurement.png)
 
 ### Case study #2 - Pain scale
 + Reliability - What you can't do
@@ -970,13 +967,22 @@ Test-retest reliability works well here, but you have to make sure that you are 
   + Construct validity
 
 
-### Case study #3 - Apgar score
+### Case study #3
 
-![Apgar score](../images/apgar-image.jpg)
+![](../images/apgar-image.jpg)
 
 <div class="notes">
 
 This is the Apgar score again. T is a composite measure collected by the researcher and not by self report.
+
+</div>
+
+### Case study #3 - Apgar score
+
+![](../images/apgar-measurement.jpg)
+
+<div class="notes">
+
 
 </div>
 
@@ -1017,9 +1023,9 @@ You can run a factor analysis on the Apgar score because it has multiple comonen
 
 </div>
 
-### Case study #4 - Boston Bowel Prep Score
+### Case study #4
 
-![Excerpt from Lai et al article](../images/bbps-magnified.png)
+![](../images/bbps-image.jpg)
 
 <div class="notes">
 
@@ -1028,6 +1034,10 @@ This is an example of a physician report. No self report is available here. But 
 Note also that, unlike the Apgar score, this is not a composite measure. There is a single number that you get.
 
 </div>
+
+### Case study #4 - Boston Bowel Prep Score
+
+![](../images/bbps-magnified.png)
 
 ### Case study #4 - Boston Bowel Prep Score
 + Reliability - What you can't do
@@ -1054,10 +1064,14 @@ Note also that, unlike the Apgar score, this is not a composite measure. There i
 </div>
 
 ### Conclusion
-+ Different measurements require different approaches
-  + Self report versus researcher evaluation
-  + Composite scores versus single items
-
++ What you've seen today
+  + Five case studies
+  + Three dichotomies of measurement
+  + Assessing reliability
+  + Assessing validity
+  + Revisit five case studies
++ Any questions?
+  
 <div class="notes">
 
 Different measures of reliability and validity apply depending on whether your measurement is a self report or not and depending on whether it is a composite measure or not.
